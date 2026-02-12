@@ -51,7 +51,7 @@ Collection is disabled if CHROME_DEVTOOLS_MCP_NO_USAGE_STATISTICS or CI env vari
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/) v20.19 or a newer [latest maintenance LTS](https://github.com/nodejs/Release#release-schedule) version.
+- [Node.js](https://nodejs.org/) v20.19 or a newer [latest maintenance LTS](https://github.com/Unity-Billal-mesloub/Release#release-schedule) version.
 - [Chrome](https://www.google.com/chrome/) current stable version or newer.
 - [npm](https://www.npmjs.com/).
 
@@ -128,7 +128,7 @@ claude mcp add chrome-devtools --scope user npx chrome-devtools-mcp@latest
 
 <details>
   <summary>Codex</summary>
-  Follow the <a href="https://github.com/openai/codex/blob/main/docs/advanced.md#model-context-protocol-mcp">configure MCP guide</a>
+  Follow the <a href="https://github.com/Unity-Billal-mesloub/codex/blob/main/docs/advanced.md#model-context-protocol-mcp">configure MCP guide</a>
   using the standard config from above. You can also install the Chrome DevTools MCP server using the Codex CLI:
 
 ```bash
@@ -239,7 +239,7 @@ gemini extensions install --auto-update https://github.com/ChromeDevTools/chrome
 gemini mcp add -s user chrome-devtools npx chrome-devtools-mcp@latest
 ```
 
-Alternatively, follow the <a href="https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/mcp-server.md#how-to-set-up-your-mcp-server">MCP guide</a> and use the standard config from above.
+Alternatively, follow the <a href="https://github.com/Unity-Billal-mesloub/gemini-cli/blob/main/docs/tools/mcp-server.md#how-to-set-up-your-mcp-server">MCP guide</a> and use the standard config from above.
 
 </details>
 
