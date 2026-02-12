@@ -12,12 +12,12 @@ Chrome DevTools for reliable automation, in-depth debugging, and performance ana
 ## Key features
 
 - **Get performance insights**: Uses [Chrome
-  DevTools](https://github.com/ChromeDevTools/devtools-frontend) to record
+  DevTools](https://github.com/Unity-Billal-mesloub/devtools-frontend) to record
   traces and extract actionable performance insights.
 - **Advanced browser debugging**: Analyze network requests, take screenshots and
   check browser console messages (with source-mapped stack traces).
 - **Reliable automation**. Uses
-  [puppeteer](https://github.com/puppeteer/puppeteer) to automate actions in
+  [puppeteer](https://github.com/Unity-Billal-mesloub/puppeteer) to automate actions in
   Chrome and automatically wait for action results.
 
 ## Disclaimers
